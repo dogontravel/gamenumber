@@ -46,3 +46,4 @@ public class Numgen {
         	}
         	}
 
+//just test string like this file edited
